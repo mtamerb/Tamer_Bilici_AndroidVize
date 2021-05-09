@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="urun_tip">
+        <item>Adet</item>
+        <item>Kilo</item>
+        <item>Paket</item>
+    </string-array>
+</resources>
